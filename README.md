@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Magnus Leander Ovason - (@MagnusOvason)
+- 👋 Hi, My name is Magnus Leander Ovason - (@MagnusOvason)
+- 🌱 I am a MSc Electrical Engineering student at the Technical University of Denmark, DTU, where I specialize in Automation and Robot Technology.
 - 👀 I like programming in C, C++, Structured Text and VHDL. I really like working with microcontrollers and IoT.
-- 🌱 I’m currently making an MSc Electrical Engineering at the Technical University of Denmark, also known as DTU.
-- 💞️ I’m looking to collaborate on "Whatever I find interesting". At the moment I am mostly here to learn Git and create a good habit of using version control.
+- 💞️ While doing my studies I work as a part time development engineer at Pisco ApS where I have gained a lot of experience and continue to develop myself and my engineering-toolbox.
 - 📫 How to reach me? ... Well, good luck on that. ;)
 
 <!---
